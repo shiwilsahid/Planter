@@ -1,6 +1,6 @@
-# Doit
+# Planter
 
-Productivity apps to do it watering.
+Productivity apps for planter.
 
 ## Vite + React
 
