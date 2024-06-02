@@ -19,8 +19,8 @@ export const dataPlants: Plant[] = [
 
   {
     id: 2,
-    text: "Bayam",
-    category: "Spinach",
+    text: "Spinach",
+    category: "Vegetable",
     watering: true,
     fertilization: true,
     harvest: false,
@@ -28,7 +28,7 @@ export const dataPlants: Plant[] = [
   {
     id: 3,
     text: "Cabbage",
-    category: "Spinach",
+    category: "Vegetable",
     watering: true,
     fertilization: true,
     harvest: false,
