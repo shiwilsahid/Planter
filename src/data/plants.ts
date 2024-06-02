@@ -13,7 +13,7 @@ export const dataPlants: Plant[] = [
     text: "Apple",
     category: "Fruit",
     watering: true,
-    fertilization: false,
+    fertilization: true,
     harvest: false,
   },
 
